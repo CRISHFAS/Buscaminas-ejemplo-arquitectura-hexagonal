@@ -1,11 +1,11 @@
 package main
 
 import (
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/service/gamesrv"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/handlers/gamehdl"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/repositories/gamesrepo"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/pkg/uidgen"
 	"github.com/gin-gonic/gin"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/service/gamesrv"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/handlers/gamehdl"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/repositories/gamesrepo"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/pkg/uidgen"
 )
 
 func main() {

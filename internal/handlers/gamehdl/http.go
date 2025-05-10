@@ -2,7 +2,7 @@ package gamehdl
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/ports"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/ports"
 )
 
 type HTTPHandler struct {

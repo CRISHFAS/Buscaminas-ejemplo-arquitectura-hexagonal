@@ -6,7 +6,7 @@ package mockups
 
 import (
 	gomock "github.com/golang/mock/gomock"
-	domain "github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
+	domain "github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/domain"
 	reflect "reflect"
 )
 

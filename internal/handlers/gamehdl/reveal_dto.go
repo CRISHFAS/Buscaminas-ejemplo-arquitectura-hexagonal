@@ -1,6 +1,6 @@
 package gamehdl
 
-import "github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
+import "github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/domain"
 
 type BodyRevealCell struct {
 	Row uint   `json:"row"`

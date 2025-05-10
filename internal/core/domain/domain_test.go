@@ -3,7 +3,7 @@ package domain_test
 import (
 	"testing"
 
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/domain"
 	"github.com/stretchr/testify/assert"
 )
 

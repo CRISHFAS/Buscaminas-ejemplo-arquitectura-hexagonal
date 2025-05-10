@@ -1,4 +1,4 @@
-module github.com/matiasvarela/minesweeper-hex-arch-sample
+module github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal
 
 go 1.12
 

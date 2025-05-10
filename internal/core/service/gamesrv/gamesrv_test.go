@@ -7,11 +7,11 @@ import (
 
 	"github.com/golang/mock/gomock"
 
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/domain"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/internal/core/service/gamesrv"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/mocks/mockups"
+	"github.com/CRISHFAS/Buscaminas-ejemplo-arquitectura-hexagonal/pkg/apperrors"
 	"github.com/matiasvarela/errors"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/service/gamesrv"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/mocks/mockups"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/pkg/apperrors"
 )
 
 type mocks struct {
