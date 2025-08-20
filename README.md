@@ -14,5 +14,5 @@ Esto iniciará un servidor HTTP en el puerto 8080, donde las siguientes rutas es
 
 - `PUT /games/{id}/reveal`: Revelar una celda de un juego.
 
-Si quieres saber más acerca de cómo se juega, sus reglas y más ...
+Si quieres saber más acerca de cómo se juega este juego legendario, sus reglas, patrones y más ...
 [Haz click](https://minesweepergame.com/strategy/how-to-play-minesweeper.php)
